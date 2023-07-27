@@ -1,0 +1,26 @@
+				Trabajo en equipo en Git
+I) Integrantes: 
+
+1. Jean Franco Boom Bolaño (Git Local)
+2. Kevin
+3. Santiago (Github)
+4. Claudio
+
+
+II) 
+Tareas asignadas:
+1. Jean Franco: Crear repositorio local
+2. Santiago: Crear el repositorio en la web (Github)
+
+
+III) 
+Cambios realizados:
+- Creacion del archivo txt (Bitacora)
+
+IV) 
+Comandos utilizados:
+
+- git init 
+- git add .
+- git commit -m ""
+- git checkout -b miRama
