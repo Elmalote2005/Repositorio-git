@@ -26,3 +26,4 @@ Comandos utilizados:
 - git checkout -b miRama
 - git remote add origin <url>
 - git push origin main 
+- git pull origin main
